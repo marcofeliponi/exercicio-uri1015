@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.exe
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.deps.json
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.runtimeconfig.json
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.dll
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\bin\Debug\netcoreapp3.1\Exercicio Curso.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.dll
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\Exercicio Curso\Exercicio Curso\obj\Debug\netcoreapp3.1\Exercicio Curso.genruntimeconfig.cache
